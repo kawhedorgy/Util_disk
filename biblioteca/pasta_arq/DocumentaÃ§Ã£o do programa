@@ -1,0 +1,5 @@
+1 ) criar um cod que irar fazer a remoção do script apos a instalação na máquina cliente
+2 ) criar uma parte do cod que irá inverter o cod, reescrendo-o e add na ultima linha com o comando tac e apos isso ele irá executar para garantir que o tenha-se 
+uma copia e um original, sempre que for executado.
+3 ) todo o script possui uma biblioteca con os arquivos de confguração do programa. 
+4 ) 
